@@ -39,7 +39,25 @@ CAPTIONS: Clean subtitles at the bottom center, white text with a thin black out
 
 MUSIC: Light cinematic background music, always quiet under the voice. Nordic drums and low strings for Viking and war moments, warm choir and soft organ for Rome and the Church, playful plucked strings for the funny analogies, a gentle rising theme for victories.
 
-SOUND EFFECTS: Soft whooshes on transitions, pops when labels appear, coin clinks for money, sword clangs for battles, crowd murmur in Rome, quill scratching for letters. Never louder than the narration.
+SOUND DESIGN (use LOTS of sound effects, a sound on almost every visual beat, so the video feels alive and the sounds help tell the story):
+Use this fixed "sound language" so each recurring sound always means the same idea:
+- VIKING PAST, WAR, CONQUEST: deep Viking war horn plus a low drum hit.
+- THE CHURCH, FAITH, ROME: a single clear church bell chime, sometimes with a soft choir "aah".
+- MONEY AND SILVER: coin clinks; big payments get a cash-register "cha-ching"; money draining away gets coins pouring.
+- DEALS AND AGREEMENTS: a heavy wax-seal stamp thud, often after a quill scratch.
+- MYTHS, MISTAKES, BAD IDEAS: a record scratch or a short "wrong" buzzer.
+- WINS, GOOD IDEAS, CORRECT ANSWERS: a bright success "ding".
+- BIG REVEALS AND DRAMATIC LINES: a fast whoosh into a deep cinematic boom.
+- THE NARRATOR POPPING IN OR OUT: a cartoon "pop".
+- QUESTIONS AND CURIOSITY: a short rising pizzicato pluck.
+- TENSION: a ticking clock or a slow heartbeat underneath.
+- MAPS: a quill-scratch sound while dotted lines draw, and a soft swoosh when a kingdom fills with color.
+- JOURNEYS: footsteps on gravel, waves for the sea, wind for the mountains.
+- CHAPTER TITLE CARDS: a page turn followed by a soft drum hit.
+- CROWD REACTIONS: gasps, murmurs, cheers, boos and laughs, short and cartoon-like.
+Comedic sounds (boing, slide whistle, sad trombone, record scratch) are used only on the funny analogies and gags, never on serious moments.
+
+SOUND MIXING RULES: The narration is always the loudest and always perfectly clear. Sound effects sit well below the voice and never cover a word; place impacts, booms and stamps in the small pauses between phrases. Music ducks automatically under the voice. Use at most two sound effects at the same moment. Vary the samples so the same exact sound does not repeat within 10 seconds. Keep a moment of near-silence (only soft room tone) right before the biggest reveals, so the next sound hits harder. Each chapter below lists its SOUND CUES by visual beat number; follow them.
 ```
 
 ---
@@ -63,6 +81,18 @@ VISUALS, in order:
 8. "used faith as a weapon and diplomacy as his shield" Cnut holds a glowing gold cross icon labeled "FAITH" in one hand and a blue shield labeled "DIPLOMACY" in the other.
 9. "to outmaneuver the most powerful men in Europe, including the Pope himself." A chessboard: Cnut moves a piece with a smirk; across the board, the Emperor and the Pope lean in, shocked.
 10. End on the title card: "THE VIKING KING WHO BARGAINED WITH THE POPE" in gold, drum hit.
+
+SOUND CUES (by visual beat):
+1. Silence for half a second, then a deep cinematic boom as "1027" stamps down, with a paper stamp thud.
+2. Viking war horn, ocean waves and creaking oars; tiny comic screams as the villagers run.
+3. Roaring fire crackle and strong wind on the cliff.
+4. Quill scratch as the dotted line draws; one clear church bell chime as Rome glows.
+5. Three sharp "wrong" buzzers, one on each word: raid, burn, plunder.
+6. Hand slapping the table, then a bright success "ding" on "bargain".
+7. Short war horn on the "VIKING PAST" side, church bell chime on the "CHRISTIAN KING" side.
+8. Magical shimmer on the gold cross, a soft metallic shield clang on "DIPLOMACY".
+9. Wooden chess piece click, then a crowd gasp from the Emperor and Pope.
+10. Whoosh into a big drum hit on the title card.
 ```
 
 ---
@@ -89,6 +119,21 @@ VISUALS, in order:
 11. "The age of the statesman had begun." A banner unrolls: "THE AGE OF THE STATESMAN".
 12. "from a feared conqueror to a respected Christian monarch" Cnut's outfit morphs from war gear to royal robes.
 13. "the eternal city of Rome" Cnut walks toward a glowing gold Rome on a hill, choir swell.
+
+SOUND CUES (by visual beat):
+1. Over-the-top heroic brass "ta-da" as the horned Viking flexes.
+2. Pointer tap, a comic "boing" as the horns fall, a record scratch, then a rubber-stamp thud on "MYTH".
+3. Viking war horn, a battle yell and frantic running footsteps.
+4. Rising slide whistle as the "POWER" meter shoots up.
+5. Puzzle pieces clattering apart; a curious pizzicato pluck on the Narrator's shrug.
+6. Three magic "poof" sounds, each one higher in pitch, for transformation, adaptation and savvy.
+7. Soft swooshes as England and Denmark fill with red, a short war horn, and a crown "ding".
+8. "Wrong" buzzer as the thought bubble is crossed out.
+9. Descending "wah-wah-wah" sad trombone as the profits chart crashes, plus paper crumpling.
+10. Office ambience (quill scratching, papers, a murmur), then a success chime as the "LONG-TERM GROWTH" chart rises.
+11. Fabric whoosh as the banner unrolls, a short bright fanfare.
+12. Sparkling shimmer as Cnut's outfit morphs.
+13. Church bell chime and a warm choir swell as Rome glows.
 ```
 
 ---
@@ -125,6 +170,25 @@ VISUALS, in order:
 15. "an empire built only on fear was a house of cards" A house of cards labeled "FEAR" collapses.
 16. "He needed a different kind of power... an official seal of approval" A giant wax seal stamps down with a thump.
 17. "the most powerful institution of the age: the Christian Church" A grand gold-lined church rises up; choir hit; Cnut looks up at it, intrigued.
+
+SOUND CUES (by visual beat):
+1. Low ominous drone, fire crackle and distant war drums.
+2. Two heavy stomping footsteps and an angry growl as Sweyn Forkbeard arrives.
+3. A "thunk" impact for each red arrow hitting the English coast, getting faster.
+4. Wooden practice swords clacking.
+5. Sharp metallic "shing" as the scroll is skewered on the sword.
+6. A single low gong for Sweyn's death, then a slow heartbeat as Cnut stares at England.
+7. Sword clangs, shield bashes and a cartoon brawl dust cloud.
+8. Wooden token clicks on the map table and calendar pages flipping fast.
+9. A tired group sigh as the nobles kneel, a crown "ding", then a victorious Viking war horn.
+10. A light "pop" on the easy "CONQUER" side; on the "RULE" side, chaotic crowd chatter and an avalanche of paper.
+11. Low crowd grumbling and a short "boo".
+12. A rumble of thunder and a heavy door slam.
+13. Three paper rips as the rivals' cards are torn off, then coin bags clinking for the followers.
+14. A sparkling chime on the crown jewel.
+15. Playing cards fluttering as the house of cards collapses.
+16. A heavy wax-seal stamp thud.
+17. Near-silence for half a second, then a church bell chime and a choir "aah" as the church rises.
 ```
 
 ---
@@ -161,6 +225,25 @@ VISUALS, in order:
 15. "He also ruled Denmark, Norway, and parts of Sweden" Map: Denmark, Norway and part of Sweden fill with red alongside England; label "NORTH SEA EMPIRE".
 16. "a European emperor in all but name" Cnut's crown grows bigger; a label "EMPEROR?" appears with a question mark.
 17. "the long road to Rome" A winding road unrolls from the North Sea down to Rome; Cnut starts walking it with a pilgrim staff.
+
+SOUND CUES (by visual beat):
+1. Creaking metal scale wobbling back and forth.
+2. Cartoon "pop" as the Narrator appears and a little "ting" on his wink.
+3. Bright success "ding" on the checkmark.
+4. Water splash and a grumpy grunt from Sweyn.
+5. A big key turning with a heavy "clunk", then a long door creak.
+6. Straining grunt and a dull thud against the wall; then a church bell chime and soft choir as Cnut walks through the door.
+7. Shimmering whoosh as the mirror reflection changes.
+8. A picture-frame "click" for each portrait, the last one a satisfying "click-ding".
+9. A shower of coins and a cheer from the monks.
+10. Quill scratching, then a wax-seal stamp thud.
+11. Solid metallic shield clang.
+12. Paper shuffle, a wax-seal stamp thud and a friendly handshake pat.
+13. Quick card-flip "whip" and a success "ding" as ENEMY turns into ALLY.
+14. "Wrong" buzzer on "TYRANT", then a happy villager cheer on "JUST KING".
+15. Short war horn and three soft swooshes as Denmark, Norway and Sweden fill with red.
+16. A stretching "inflate" sound as the crown grows, then a curious pizzicato pluck on the question mark.
+17. Scroll unrolling, then footsteps on gravel as Cnut starts walking.
 ```
 
 ---
@@ -191,6 +274,21 @@ VISUALS, in order:
 11. "far more than prayer. He had come to Rome with a clear agenda." Cnut pulls a scroll from his robe titled "AGENDA": "1. Safe roads. 2. Fair tolls. 3. Lower fees."
 12. "Emperor Conrad II and Pope John XIX" Spotlights reveal Conrad II and Pope John XIX side by side on thrones, with name labels.
 13. "He hadn't just come for blessings. He had come to make a deal." Cnut steps forward, rolls up his sleeves and slams the agenda onto the table; "DEAL" stamps in gold.
+
+SOUND CUES (by visual beat):
+1. Whoosh into a deep boom as "1027" appears.
+2. An axe clattering on stone and a shocked gasp.
+3. Ocean waves, then cold mountain wind over the Alps, then footsteps on a stone road; a fast ticking counter as the miles spin.
+4. A quick pencil tick on the checklist.
+5. Church bells pealing, a full choir and crowd applause as the crown is placed.
+6. Chairs scraping, a murmur of important voices and a gavel tap at the summit table.
+7. A heavy spotlight "clunk" and the crowd going quiet.
+8. Near-silence: echoing footsteps, a candle flicker and a faint distant chant in the crypt.
+9. A whoosh and a satisfying "click" as the longship fits into the Christendom circle.
+10. Card flip, a success "ding" and a handshake pat on "PARTNER".
+11. Scroll unrolling, then three pencil ticks for the three agenda items.
+12. Two heavy spotlight clunks and a single deep organ chord as the Emperor and the Pope are revealed.
+13. A hard table slam, a wax-seal stamp thud on "DEAL" and a big drum hit.
 ```
 
 ---
@@ -233,6 +331,29 @@ VISUALS, in order:
 19. "the public loyalty of the most powerful king in northern Europe" Cnut bows respectfully to them before a crowd; a loyalty meter rises.
 20. "Cnut's presence legitimized them, just as their favor legitimized him." Two arrows form a circle between Cnut and the Pope and Emperor, each labeled "LEGITIMACY".
 21. "everyone walked away stronger" All three stand together flexing stick arms; three power meters rise at once.
+
+SOUND CUES (by visual beat):
+1. Quill scratching, a whoosh as the letter flies, a town crier's hand bell and a crowd murmur.
+2. "Wrong" buzzer on the axe-shaped letter, a success "ding" on the neat scroll.
+3. Bushes rustling, a short ambush sting as the bandits pop out, and comic running feet.
+4. A cash-register "cha-ching" at every toll gate, each followed by a little deflating sound as the coin bags shrink.
+5. Three heavy stamp thuds on "TAX! TAX! TAX!" and a long receipt unrolling.
+6. A light confident drum roll and a finger tapping on the map.
+7. A short heroic brass sting as Cnut shields his people.
+8. A low dramatic "dun" on "UNJUST TOLLS".
+9. A wooden toll gate creaking open, a quill signing, and merchants cheering.
+10. A full beat of silence, then a deep boom and a shocked gasp from the Narrator.
+11. Soft fabric swish and a choir "aah" on the pallium.
+12. A shop door bell, then a receipt printer clicking out an endlessly long invoice.
+13. Continuous pouring coins and a draining "glug" as England's chest empties.
+14. A tense ticking clock under Cnut's argument.
+15. The ticking stops. One beat of silence. Then a wax-seal stamp thud on "AGREED", a church bell chime and a bright success "ding".
+16. A shrinking "whoop" as the invoice shrinks, and the pouring coins slow to a few clinks.
+17. A short victory fanfare and confetti pops.
+18. A curious pizzicato pluck on the question mark.
+19. Crowd applause and a rising tone as the loyalty meter climbs.
+20. A looping whoosh as the two arrows circle.
+21. A triumphant drum hit and a crowd cheer.
 ```
 
 ---
@@ -263,6 +384,21 @@ VISUALS, in order:
 11. "Christianity was... the political and cultural operating system of Europe" A giant medieval-style computer screen reads "CHRISTENDOM OS" with icons for "TRADE", "LAW", "ALLIANCES", "MARRIAGES"; Cnut clicks "INSTALL".
 12. "To be a part of it was to be powerful." Kingdoms inside the screen glow gold.
 13. "To remain outside it was to risk becoming irrelevant." A lone Viking outside the screen fades to grey, a "DISCONNECTED" message over him.
+
+SOUND CUES (by visual beat):
+1. Three hammer knocks as the letters are nailed to church doors.
+2. An approving crowd "ooh" and a success "ding" on the thumbs up.
+3. Seagulls, gentle waves, a busy market and coin clinks.
+4. Scissors snipping a ribbon, a church bell chime and applause.
+5. Stone grinding, then a heavy "thunk" as the keystone drops in.
+6. A shimmer as the axe turns into a scepter, then polite royal applause.
+7. Metal clink as the sword goes on the rack, a quill scratch and a handshake pat.
+8. Hammering for the bridge, a ship's bell as the ship docks, and a few bars of playful waltz music for the dance.
+9. A whoosh and a "click" as the timeline arrow moves to "AGE OF STATES".
+10. Bubbles and creaking wood as the longship sinks, then a stone rumble and a short fanfare as the palace rises.
+11. A comic "boot-up" chime as the screen turns on, a click on "INSTALL" and little progress-bar beeps.
+12. A warm success chord as the kingdoms glow gold.
+13. A power-down sound and a short sad trombone as the lone Viking turns grey.
 ```
 
 ---
@@ -297,9 +433,37 @@ END SCREEN (after the narration, 20 seconds, no voice, music continues softly):
 - Two buttons drawn below it: "FAITH" in gold and "STRATEGY" in blue, with "Comment your answer" under them.
 - Small text: "Subscribe for more history lessons".
 - Leave the right half of the screen empty for two YouTube end-screen video cards and a subscribe button.
+
+SOUND CUES (by visual beat):
+1. A ticking clock that slows down, then a single solemn low bell toll.
+2. A creaking scale wobbling back and forth.
+3. A faint, echoing war horn and distant battle sounds, as if from memory.
+4. Birdsong, a cheerful market and a soft church bell as the flashback turns gold.
+5. A sparkling "ding" on the gold star.
+6. Distant thunder rolling over the map, then fading back to birdsong.
+7. A light-bulb "click" and a bright "ding".
+8. A page flip, a scribbling cross-out on "RAIDER" and a quill writing "STATESMAN".
+9. A whoosh and a satisfying "snap" as the two halves become one Cnut.
+10. The axe laid down with a wooden "thunk", a chair scraping back, then one beat of silence.
+11. A metallic sword "shing" on the left icon and a sparkling chime on the brain icon.
+12. The big finale: a drum hit with a Viking war horn and a church choir sounding together, both of Cnut's worlds in one sound, swelling into the final music.
+END SCREEN: Soft music continues. A cartoon "pop" as the Narrator walks in, a "pop" for each button (FAITH, STRATEGY) and a gentle "click" on the subscribe text.
 ```
 
 ---
+
+## Adding or fixing sound effects by hand in CapCut
+
+AI generators often add only some of the sound cues, or place them loosely. After you join the chapters, do one sound pass on the timeline:
+
+1. **Lock the voice first.** Put the narration on its own track and don't move it. Every sound is placed against the words.
+2. **Open the sound library:** Audio > Sound effects. Search with the words in each cue (for example "war horn", "church bell", "coin", "cash register", "stamp", "record scratch", "whoosh", "boom", "pop", "buzzer", "ding", "crowd gasp", "sad trombone").
+3. **Place each effect on the beat.** Drag it to the moment the matching picture appears. Impacts (booms, stamps, slams) go in the pause just before or after a phrase, never on top of an important word.
+4. **Set the levels.** Keep the voice around 100% and most sound effects about 20-40%. Booms and the war horn can go a little higher, but only in pauses. Add a short fade-out to long sounds like waves, crowds and choirs.
+5. **Duck the music.** Lower the music under the voice (auto-ducking if your version has it, or keyframes otherwise), and keep it a bit lower again during busy sound-effect moments.
+6. **Keep the sound language consistent.** Use the same war horn, church bell, stamp and "ding" every time, so viewers learn what they mean. Vary only the "filler" sounds (whooshes, pops, footsteps) so they don't feel repetitive.
+7. **Check with headphones and on a phone speaker.** If a single word gets covered, lower or move that effect.
+8. **Licensing:** check that CapCut's sound library is cleared for monetized YouTube use on your plan. The YouTube Audio Library's sound effects are a safe alternative.
 
 ## Optional narration additions
 
